@@ -27,8 +27,8 @@
     🎵 Me encanta el kpop y jpop.
     ⚡ Me encanta el 🍣 y el 🍜
   </td>
-  <td>
-    <img src="https://media1.tenor.com/m/2kAqQigxg6wAAAAd/violet-evergarden.gif" height="190" />
+  <td width="45%">
+    <img src="https://media1.tenor.com/m/2kAqQigxg6wAAAAd/violet-evergarden.gif" height="190" width="100%"/>
   </td>
 </table>
 <div>
