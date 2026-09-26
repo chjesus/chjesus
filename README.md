@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hola, Soy Jesus Chacon 👋</h1>
 
-  [![Static Badge](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=%23FFF)]()
-  [![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logoColor=%23FFF)]()
-  [![Static Badge](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFF)]()
-  [![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=%23FFF)]()
+  [![PORTFOLIO](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=%23FFF)](https://www.jesuschacon.dev/)
+  [![LINKEDIN](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logoColor=%23FFF)](https://www.linkedin.com/in/chjesus-dev/)
+  [![EMAIL](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFF)](chjesussao@gmail.com)
+  [![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=%23FFF)](https://github.com/chjesus)
 
 </div>
 <h1>👨‍💻 Sobre mi</h1>
@@ -18,14 +18,14 @@
 
     chjesus@github
     -------------------------
-    🔎 Main interests in Agentic AI and automatic exploitation
+    🔎 Principales intereses en agentes de IA (PI).
     🌱 Aprendizaje continuo de agentes de IA con OpenCode y PI
     🏫 Estudio continuo de avances tecnológicos del frontend. 🐴
     💖 Relación complicada entre OpenCode y PI.
     🧬 Interesado en mangas y novelas visuales.
     🖌️ Me encanta el ajedrez, tenis y  hacer ciclismo.
     🎵 Me encanta el kpop y jpop.
-    ⚡ Me encanta el 🍣 y el 🍜
+    🍽️ Me encanta el 🍣 y el 🍜
   </td>
   <td width="45%">
     <img src="https://media1.tenor.com/m/2kAqQigxg6wAAAAd/violet-evergarden.gif" height="190" width="100%"/>
