@@ -26,10 +26,9 @@
     🖌️ Me encanta el ajedrez, tenis y  hacer ciclismo.
     🎵 Me encanta el kpop y jpop.
     ⚡ Me encanta el 🍣 y el 🍜
-
   </td>
   <td>
-    <img src="https://i.pinimg.com/originals/84/c9/ff/84c9fff85fcfc3964568253dbc2161fe.gif" height="190"/>
+    <img src="https://i.pinimg.com/originals/84/c9/ff/84c9fff85fcfc3964568253dbc2161fe.gif" height="190" />
   </td>
 </table>
 <div>
