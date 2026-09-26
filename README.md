@@ -1,4 +1,45 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hola, Soy Jesus Chacon 👋</h1>
+
+  [![Static Badge](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=%23FFF)]()
+  [![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logoColor=%23FFF)]()
+  [![Static Badge](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFF)]()
+  [![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=%23FFF)]()
+
+</div>
+<h1>👨‍💻 Sobre mi</h1>
+<p>
+  Soy Ingeniero en Informática y Desarrollador Frontend con +7 años de experiencia creando interfaces modernas, escalables y enfocadas en la experiencia de usuario. Algunas de las tecnologías con las que disfruto trabajar son React, Next.js y Astro, construyendo productos web sólidos con atención al detalle visual y técnico.
+
+  Me especializo en crear sistemas de interfaz claros y mantenibles, trabajando con CSS moderno y librerías como MUI y Ant Design. Además, soy entusiasta de las computadoras y los videojuegos, una pasión que alimenta mi curiosidad por la tecnología, el rendimiento y las experiencias digitales bien diseñadas.
+</p>
+<table border="0">
+  <td width="55%">
+
+    chjesus@github
+    -------------------------
+    🔎 Main interests in Agentic AI and automatic exploitation
+    🌱 Aprendizaje continuo de agentes de IA con OpenCode y PI
+    🏫 Estudio continuo de avances tecnológicos del frontend. 🐴
+    💖 Relación complicada entre OpenCode y PI.
+    🧬 Interesado en mangas y novelas visuales.
+    🖌️ Me encanta el ajedrez, tenis y  hacer ciclismo.
+    🎵 Me encanta el kpop y jpop.
+    ⚡ Me encanta el 🍣 y el 🍜
+
+  </td>
+  <td>
+    <img src="https://i.pinimg.com/originals/84/c9/ff/84c9fff85fcfc3964568253dbc2161fe.gif" height="190"/>
+  </td>
+</table>
+<div>
+  <h1>🧰 Tech Stack</h1>
+  <div align="left">
+
+  </div>
+  
+  <p align="right">dadsa</p>
+</div>
 
 <!--
 **chjesus/chjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
