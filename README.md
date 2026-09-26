@@ -32,7 +32,7 @@
   </td>
 </table>
 <div>
-  <h1>🧰 Tech Stack</h1>
+  <h1>🧰 Stack tecnologico</h1>
   <div align="left">
 
   </div>
