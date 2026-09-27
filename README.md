@@ -53,6 +53,7 @@
         <b>Mobile Development</b>
       </td>
       <td>
+        <img src="https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
       </td>
     </tr>
     <tr>
@@ -69,6 +70,7 @@
         <b>Tools</b>
       </td>
       <td>
+        <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
       </td>
     </tr>
     <tr>
