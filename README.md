@@ -33,11 +33,24 @@
 </table>
 <div>
   <h1>🧰 Stack tecnologico</h1>
-  <div align="left">
-
-  </div>
-  
-  <p align="right">dadsa</p>
+  <table>
+    <tr>
+      <th>Categoria</th>
+      <th>Tecnologia</th>
+    </tr>
+    <tr>
+      <td>
+        <b>Frontend Development</b>
+      </td>
+      <td>React</td>
+    </tr>
+    <tr>
+      <td>
+        <b>Frontend Development</b>
+      </td>
+      <td>React</td>
+    </tr>
+  </table>
 </div>
 
 <!--
