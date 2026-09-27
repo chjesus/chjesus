@@ -69,7 +69,7 @@
       <td>
         <b>Tools</b>
       </td>
-      <td>
+      <td align="middle">
         <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
       </td>
     </tr>
