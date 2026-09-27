@@ -39,13 +39,13 @@
       <th>Tecnologia</th>
     </tr>
     <tr>
-      <td>
+      <td width="30%">
         <b>Frontend Development</b>
       </td>
       <td>
         <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-        <img src="https://img.shields.io/badge/NEXT.js-20232A?style=for-the-badge&logo=nextdotjs"/>
-        <img src="https://img.shields.io/badge/ASTRO-20232A?style=for-the-badge&logo=Astro"/>
+        <img src="https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/astro-%23BC52EE?style=for-the-badge&logo=astro&logoColor=white"/>
         <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       </td>
     </tr>
