@@ -42,13 +42,44 @@
       <td>
         <b>Frontend Development</b>
       </td>
-      <td>React</td>
+      <td>
+        <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/NEXT.js-20232A?style=for-the-badge&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/ASTRO-20232A?style=for-the-badge&logo=Astro"/>
+      </td>
     </tr>
     <tr>
       <td>
-        <b>Frontend Development</b>
+        <b>Mobile Development</b>
       </td>
-      <td>React</td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Styling</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/mui-20232A?style=for-the-badge&logo=Mui" />
+        <img src="https://img.shields.io/badge/antd-0170FE?style=for-the-badge&logo=antdesign" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Tools</b>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>OS</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
+        <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/omarchy-9ECE6A?style=for-the-badge&logo=omarchy&logoColor=000"/>
+      </td>
     </tr>
   </table>
 </div>
