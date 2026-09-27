@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Hola, Soy Jesus Chacon 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=5104A3&section=header&reversal=false&text=Hola%2C+Soy+Jesus+Chacon+%F0%9F%91%8B&textBg=false&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=30&rotate=0&strokeWidth=0&desc=%E2%9C%A8+Front-end+Developer+%E2%9C%A8&descSize=20&descAlign=50&descAlignY=55" width="100%"/>
+</div>
+<div align="center">
 
   [![PORTFOLIO](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=%23FFF)](https://www.jesuschacon.dev/)
   [![LINKEDIN](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logoColor=%23FFF)](https://www.linkedin.com/in/chjesus-dev/)
