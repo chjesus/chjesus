@@ -46,6 +46,7 @@
         <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
         <img src="https://img.shields.io/badge/NEXT.js-20232A?style=for-the-badge&logo=nextdotjs"/>
         <img src="https://img.shields.io/badge/ASTRO-20232A?style=for-the-badge&logo=Astro"/>
+        <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -58,19 +59,50 @@
     </tr>
     <tr>
       <td>
+        <b>Languages</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+        <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
         <b>Styling</b>
       </td>
       <td>
         <img src="https://img.shields.io/badge/mui-20232A?style=for-the-badge&logo=Mui" />
         <img src="https://img.shields.io/badge/antd-0170FE?style=for-the-badge&logo=antdesign" />
+        <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css" />
+        <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+        <img src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Formatter y Linter</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/eslint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+        <img src="https://img.shields.io/badge/prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+        <img src="https://img.shields.io/badge/biome-%2360A5FA?style=for-the-badge&logo=biome&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td>
         <b>Tools</b>
       </td>
-      <td vertical-align="middle">
+      <td>
         <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
+        <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware" />
+        <img src="https://img.shields.io/badge/pi-000?style=for-the-badge&logo=pi" />
+        <img src="https://img.shields.io/badge/clickup-%237B68EE?style=for-the-badge&logo=clickup&logoColor=fff" />
+        <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+        <img src="https://img.shields.io/badge/opencode-000?style=for-the-badge&logo=opencode" />
+        <img src="https://img.shields.io/badge/gitlab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+        <img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       </td>
     </tr>
     <tr>
