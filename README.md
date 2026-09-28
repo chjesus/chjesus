@@ -120,6 +120,16 @@
   </table>
 </div>
 
+## 🚀 Proyecto Hobby: Armory MoP 🐼
+
+> **Armory MoP** Una plataforma web desarrollada como proyecto personal inspirada en las clásicas herramientas de armería, pero diseñada con aquellos detalles y características que siempre 
+eché en falta cuando buscaba información detallada de jugadores.
+
+> Esta aplicación permite consultar de forma rápida y visual los datos más relevantes de cualquier personaje de la expansión Mists of Pandaria, ingresando simplemente su región, el nombre del servidor y el nombre del personaje.
+
+> [!NOTE]
+> Este proyecto sigue en constante desarrollo. El objetivo es continuar añadiendo nuevas funcionalidades de manera progresiva y actualizar la plataforma para adaptarla a las siguientes expansiones a medida que la versión Classic de World of Warcraft avance en su línea de tiempo.
+
 <!--
 **chjesus/chjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
