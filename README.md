@@ -148,10 +148,15 @@ eché en falta cuando buscaba información detallada de jugadores.
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chjesus&theme=tokyonight&animation=draw&border_color=5103a4" />
   </picture>
 </div>
+
 <div>
   <picture>
     <img width="98.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chjesus&theme=tokyonight&animation=draw&border_color=5103a4" />
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=5103a4&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 </div>
 
 <!--
