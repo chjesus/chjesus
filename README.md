@@ -130,6 +130,13 @@ eché en falta cuando buscaba información detallada de jugadores.
 > [!NOTE]
 > Este proyecto sigue en constante desarrollo. El objetivo es continuar añadiendo nuevas funcionalidades de manera progresiva y actualizar la plataforma para adaptarla a las siguientes expansiones a medida que la versión Classic de World of Warcraft avance en su línea de tiempo.
 
+<div align="center">
+
+  [![Website](https://img.shields.io/badge/ver%20sitio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](AQUÍ_LINK_DE_TU_WEB)
+  [![Repository](https://img.shields.io/badge/repositorio-000?style=for-the-badge&logo=GitHub)](AQUÍ_LINK_DE_TU_REPO)
+
+</div>
+
 <!--
 **chjesus/chjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
