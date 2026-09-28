@@ -9,7 +9,8 @@
   [![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=%23FFF)](https://github.com/chjesus)
 
 </div>
-<h1>👨‍💻 Sobre mi</h1>
+
+## 👨‍💻 Sobre mi
 <p>
   Soy Ingeniero en Informática y Desarrollador Frontend con +7 años de experiencia creando interfaces modernas, escalables y enfocadas en la experiencia de usuario. Algunas de las tecnologías con las que disfruto trabajar son React, Next.js y Astro, construyendo productos web sólidos con atención al detalle visual y técnico.
 
@@ -33,8 +34,9 @@
     <img src="https://media1.tenor.com/m/2kAqQigxg6wAAAAd/violet-evergarden.gif" height="190" width="100%"/>
   </td>
 </table>
+
+## 🧰 Stack tecnologico
 <div>
-  <h1>🧰 Stack tecnologico</h1>
   <table>
     <tr>
       <th>Categoria</th>
@@ -137,6 +139,7 @@ eché en falta cuando buscaba información detallada de jugadores.
 
 </div>
 
+## 📊 GitHub Stats
 <div>
   <picture>
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chjesus&theme=tokyonight&animation=draw&border_color=5103a4" />
