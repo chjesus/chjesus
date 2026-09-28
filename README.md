@@ -156,7 +156,7 @@ eché en falta cuando buscaba información detallada de jugadores.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=5103a4&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=5103a4&section=footer&reversal=false&text=%C2%A1Gracias+por+la+visita%21+%F0%9F%99%8F&textBg=false&fontColor=fff&fontSize=30&fontAlign=50&fontAlignY=70&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 </div>
 
 <!--
