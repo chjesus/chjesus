@@ -137,10 +137,20 @@ eché en falta cuando buscaba información detallada de jugadores.
 
 </div>
 
+<div>
+  <picture>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chjesus&theme=tokyonight&animation=draw&border_color=5103a4" />
+  </picture>
+  <picture>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chjesus&theme=tokyonight&animation=draw&border_color=5103a4" />
+  </picture>
+</div>
+<div>
+  <picture>
+    <img width="98.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chjesus&theme=tokyonight&animation=draw&border_color=5103a4" />
+  </picture>
+</div>
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chjesus&theme=tokyonight&animation=draw&border_color=5103a4)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chjesus&theme=tokyonight&animation=draw&border_color=5103a4)|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chjesus&theme=tokyonight&animation=draw&border_color=5103a4)|
-|-----|-----|
 <!--
 **chjesus/chjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
